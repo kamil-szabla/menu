@@ -11,5 +11,5 @@ npm install
 
 ### Build Vue 
 ```
-npm run serve
+npm run dev
 ```
