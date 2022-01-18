@@ -1,8 +1,15 @@
-### Getting Started
+# Simple Menu using Vue 3 with Vite for Beaver Trison
 
-```sh
-npm i
+In this app I have used Vue 3 with Vite to create responsive menu page. Products are fetched from provided API using AXIOS extension.
+
+
+
+## Project setup
+```
+npm install
+```
+
+### Build Vue 
+```
 npm run dev
-npm run build
-npm run serve
 ```
