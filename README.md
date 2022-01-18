@@ -13,10 +13,3 @@ npm install
 ```
 npm run serve
 ```
-
-### Connect to server and database
-```
-change directory to 'backend'
-
-run command - nodemon server.js
-```
